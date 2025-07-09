@@ -7,17 +7,23 @@ This repository is part of a QA portfolio project focusing on exploratory testin
 ---
 
 ## 🎯 Scope of Testing
-The scope is limited to the **Job Exploration** feature (public-facing, no login required), specifically:
-- Page and filter functionality
-- Navigation to job detail
-- Responsiveness and user feedback behavior
+- Searching job listings by keyword
+- Viewing job vacancy details
+- Handling empty job result states
+- Filtering jobs by location or category
+- Navigating between pages (list ↔ detail)
+- Action validation for "Apply Now" button
+
+All tests are conducted from a **user perspective (black-box testing)** based on public UI.
 
 ---
 
 ## 📄 Test Documentation
-- ✅ [Test Cases](./test-cases.md)
-- 🐞 [Bug Report](./bug-report.md)
-
+| File | Description |
+|------|-------------|
+| [`test-scenarios.md`](./test-scenarios.md) | Detailed test scenarios (in Indonesian and English) |
+| `test-cases.xlsx` | Manual test cases per scenario *(to be added if available)* |
+| `bugreport.md` | Sample bug reports, if any issue found |
 ---
 
 ## 🧰 Tools & Methodology
