@@ -21,7 +21,7 @@ All tests are conducted from a **user perspective (black-box testing)** based on
 ## 📄 Test Documentation
 | File | Description |
 |------|-------------|
-| [`test-scenarios.md`](./test-scenarios.md) | Detailed test scenarios (in Indonesian and English) |
+| [`test-scenario.md`](./test-scenario.md) | Detailed test scenarios (in Indonesian and English) |
 | `test-cases.xlsx` | Manual test cases per scenario *(to be added if available)* |
 | `bugreport.md` | Sample bug reports, if any issue found |
 ---
