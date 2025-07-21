@@ -22,7 +22,7 @@ All tests are conducted from a **user perspective (black-box testing)** based on
 | File | Description |
 |------|-------------|
 | [`test-scenario.md`](./test-scenario.md) | Detailed test scenarios (in Indonesian and English) |
-| `test-cases.xlsx` | Manual test cases per scenario *(to be added if available)* |
+| [`test-cases.xlsx`](https://docs.google.com/spreadsheets/d/1Vyt9w4VSbY8ZVgfHRZJKvy-Vt6FFeAzBW6zt_xkMkxI/edit?usp=sharing) | Manual test cases per scenario |
 | `bugreport.md` | Sample bug reports, if any issue found |
 ---
 
