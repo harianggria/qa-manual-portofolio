@@ -1,0 +1,1 @@
+--------// this is readme section for bug report of joytify apps on android
